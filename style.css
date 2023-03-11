@@ -61,6 +61,11 @@ button {
  border: none;
 }
 
+button:active {
+    color:rgb(255, 103, 129);
+    background-color: white;
+}
+
 .grid {
     width: 200px;
     height: 400px;
